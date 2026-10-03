@@ -15,7 +15,7 @@ Pick **one** project folder below, clone this repo, and work only inside that fo
 ## Getting started
 
 1. Clone this repo.
-2. Open your assigned project's folder and read its `README.md` for the dataset download link and package list.
-3. Download the dataset yourself and place it in the project folder (datasets are not included in this repo).
-4. Open `analysis.R` or `analysis.py` and implement every function marked "Not implemented" — **do not change any function signature**.
+2. Open your assigned project's folder and read its `README.md` for the dataset download link.
+3. Inside it, pick `implement_in_python/` or `implement_in_R/` (whichever your batch is using) and follow that folder's `README.md` — it covers package install, where to put the dataset, and how to run the skeleton.
+4. Implement every function marked "Not implemented" in `analysis.py`/`analysis.R` — **do not change any function signature**.
 5. Grading criteria (same for all 5 projects): data clean-up, feature selection, visualization. The optional "stretch" model stubs are not required.
